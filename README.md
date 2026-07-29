@@ -87,8 +87,5 @@ Prior to focusing on Data Analytics and Machine Learning, I spent over six years
 💼 **LinkedIn**  
 https://www.linkedin.com/in/abhinay-dornipati/
 
-💻 **GitHub**  
-https://github.com/Abhinay49
-
 📧 **Email**  
 abhinaydornipati@gmail.com
