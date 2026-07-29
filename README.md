@@ -9,11 +9,11 @@ Passionate about combining engineering simulation, data analytics, and artificia
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="[LINKEDIN](https://www.linkedin.com/in/abhinay-dornipati/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Abhinay49">
+<a href="[GITHUB](https://github.com/Abhinay49)">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
