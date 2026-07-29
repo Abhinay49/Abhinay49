@@ -9,7 +9,7 @@ Passionate about combining engineering simulation, data analytics, and artificia
 </p>
 
 <p align="center">
-<a href="[LINKEDIN](https://www.linkedin.com/in/abhinay-dornipati/)">
+<a href="https://www.linkedin.com/in/abhinay-dornipati">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
