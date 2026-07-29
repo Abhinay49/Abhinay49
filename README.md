@@ -4,19 +4,6 @@
 Data Analytics | Machine Learning | Data Visualization
 </h3>
 
-<p align="center">
-Building data-driven solutions through analytics, machine learning, and engineering intelligence.
-</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/abhinay-dornipati/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Abhinay49?tab=repositories">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -99,10 +86,10 @@ Prior to focusing on Data Analytics and Machine Learning, I spent over six years
 ## 🤝 Let's Connect
 
 💼 **LinkedIn**  
-https://www.linkedin.com/in/YOUR-LINKEDIN/
+https://www.linkedin.com/in/abhinay-dornipati/
 
 💻 **GitHub**  
 https://github.com/Abhinay49
 
 📧 **Email**  
-YOUR EMAIL
+abhinaydornipati@gmail.com
