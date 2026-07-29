@@ -68,15 +68,6 @@ Interactive Tableau dashboard analyzing player performance and market value thro
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhinay49&show_icons=true&theme=transparent&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinay49&layout=compact&theme=transparent&hide_border=true"/>
-</p>
-
----
-
 ## 🎓 Background
 
 Prior to focusing on Data Analytics and Machine Learning, I spent over six years developing computational models, automating engineering workflows, and supporting simulation-driven product development in the automotive industry. This experience continues to strengthen my analytical approach to solving complex technical problems.
