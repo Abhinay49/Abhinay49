@@ -3,7 +3,6 @@
 <h3 align="center">
 Data Analytics | Machine Learning | Data Visualization
 </h3>
-
 ---
 
 ## 👨‍💻 About Me
