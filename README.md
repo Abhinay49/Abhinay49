@@ -13,7 +13,7 @@ Passionate about combining engineering simulation, data analytics, and artificia
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Abhinay49">
+<a href="[https://github.com/Abhinay49](https://github.com/Abhinay49?tab=repositories)">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
