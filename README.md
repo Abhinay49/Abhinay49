@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abhinay Dornipati 👋</h1>
 
 <h3 align="center">
-Data Analytics | Machine Learning | AI for Engineering
+Data Analytics | Machine Learning | Data Visualization
 </h3>
 
 <p align="center">
@@ -9,10 +9,10 @@ Building data-driven solutions through analytics, machine learning, and engineer
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="[https://www.linkedin.com/in/abhinay-dornipati/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/Abhinay49">
+<a href="https://github.com/Abhinay49?tab=repositories">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
