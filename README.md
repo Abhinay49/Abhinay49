@@ -11,11 +11,6 @@ Driven by a passion for data-driven engineering and AI, I expanded my expertise 
 I enjoy combining engineering knowledge with modern analytics and AI to solve complex technical problems and develop practical, data-driven solutions.
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhinay49&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinay49&layout=compact&hide_border=true)
-
----
 # Technical Skills
 
 ### Programming & Analytics
