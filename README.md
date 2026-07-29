@@ -68,12 +68,6 @@ Interactive Tableau dashboard analyzing player performance and market value thro
 
 ---
 
-## 🎓 Background
-
-Prior to focusing on Data Analytics and Machine Learning, I spent over six years developing computational models, automating engineering workflows, and supporting simulation-driven product development in the automotive industry. This experience continues to strengthen my analytical approach to solving complex technical problems.
-
----
-
 ## 🤝 Let's Connect
 
 💼 **LinkedIn**  
