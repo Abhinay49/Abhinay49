@@ -112,7 +112,7 @@ Over the past 6+ years, I have worked on simulation-driven product development w
 
 # Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- 💼 LinkedIn: [LINKEDIN](https://www.linkedin.com/in/abhinay-dornipati/)
 - 💻 GitHub: https://github.com/Abhinay49
 
 ---
